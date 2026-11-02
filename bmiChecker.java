@@ -15,7 +15,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class BmiRiwayat extends Application {
+public class bmiChecker extends Application {
 
     private final ObservableList<String> riwayat = FXCollections.observableArrayList();
 
