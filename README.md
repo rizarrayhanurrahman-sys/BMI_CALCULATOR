@@ -10,6 +10,10 @@ Fitur :
 - Validasi input dengan jendela peringatan
 - Tombol Enter untuk menjalankan perhitungan
 
+Tampilan :
+
+![Tampilan UI]("C:\File Fadil\code ejar\bmiChecker\Tampilan UI.jpeg")
+
 Kategori BMI :
 
 | BMI         | Kategori |
